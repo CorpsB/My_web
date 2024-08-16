@@ -52,3 +52,13 @@ a {
     background-color: #a60738;
     color: orange;
 }
+
+#HeaderContactLink {
+    color: white;
+    padding: 15px;
+}
+
+#HeaderContactLink {
+    background-color: lightgreen;
+    border-radius: 10px;
+}
