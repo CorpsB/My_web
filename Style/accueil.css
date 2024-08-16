@@ -5,3 +5,19 @@
     flex-direction: row;
     border: 2px solid red;
 }
+
+#HeaderLeftPicture {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 25%;
+    height: 100%;
+}
+
+#HeaderMyselfPicture {
+    width: 50%;
+    height: auto;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
