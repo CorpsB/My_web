@@ -2,6 +2,7 @@
 
 a {
     text-decoration: none;
+    color: black;
 }
 
 /*HEADER CLASS AND ID---*/
@@ -40,6 +41,13 @@ a {
     align-items: center;
 }
 
-MainPortailLink {
+.MainPortailLink {
     color: yellow;
+}
+
+.MainPortailLink:hover {
+    padding: 15px;
+    border-radius: 15px;
+    background-color: #a60738;
+    color: orange;
 }
